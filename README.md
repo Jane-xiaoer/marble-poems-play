@@ -3,7 +3,7 @@
 > 在玻璃弹珠的折射里,把藏在暗页中的里尔克诗轻轻显形——五关,逐光而来。
 > A poetry-reveal game built atop glass-marble refraction. Five Rilke poems, hidden in light.
 
-**▶ Play live**: <https://xiaoercamera.xyz/弹珠馆/>
+**▶ Play live**: <https://camera.xiaoercamera.xyz/弹珠馆/>
 
 ## 玩法 · How to play
 
